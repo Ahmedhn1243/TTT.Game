@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="Heading">Welcome_to_Tic_Tac_Toe</string>
+    <string name="Grid">This is Grid</string>
+</resources>
